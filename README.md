@@ -44,9 +44,9 @@ tqdm==4.64.1
 urllib3==1.26.13
 yarg==0.1.9
 ```
-Afer installing all required packages you can run the demo file simply by typing:
+The link to this public github repository is shown below:
 ```sh
-python demo_audio_restoration.py
+https://github.com/RyanLee5418/Computational_Project.git
 ```
 ---
 
